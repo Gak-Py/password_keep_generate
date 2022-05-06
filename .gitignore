@@ -75,7 +75,7 @@ target/
 
 # pyenv
 .python-version
-
+.json
 # celery beat schedule file
 celerybeat-schedule
 
@@ -103,3 +103,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/pass_list.json
